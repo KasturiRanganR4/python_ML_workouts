@@ -1,1 +1,2 @@
 Corpus is the dataset file with 10000 amazon review records and each record is labelled as label1 and label2 as positive and negative labels
+For image study sklearn digit dataset is used.
